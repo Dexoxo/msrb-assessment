@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run summon`
+
+Runs the app in the development mode and Runs the backend-index.js using nodemon.
+
 ### `npm start`
 
 Runs the app in the development mode.\
